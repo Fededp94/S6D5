@@ -1,0 +1,24 @@
+body {
+  background-color: #141414;
+  color: #fff;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.card {
+  background-color: transparent;
+  border: none;
+  width: 50vh;
+}
+
+.card-title {
+  color: #fff;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
