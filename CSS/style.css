@@ -1,3 +1,5 @@
+/** HOME PAGE **/
+
 body {
   background-color: #141414;
   color: #fff;
@@ -21,4 +23,36 @@ body {
   position: fixed;
   bottom: 0;
   width: 100%;
+}
+
+/** PROFILE PAGE **/
+body {
+  background-color: #141414;
+  color: #fff;
+}
+
+header img {
+  max-height: 40px;
+}
+
+header .btn {
+  color: #fff;
+  border-color: #fff;
+}
+
+main h1 {
+  font-weight: 700;
+}
+
+main a {
+  color: #fff;
+}
+
+main a:hover {
+  text-decoration: none;
+}
+
+main .btn-secondary {
+  background-color: #333;
+  border-color: #333;
 }
